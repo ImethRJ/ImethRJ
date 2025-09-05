@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Imeth Jayasinghe</h1>
 <h3 align="center">Undergraduate Software Engineer | Passionate about building impactful digital solutions</h3>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" alt="GIF" width="800" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imethrj&label=Profile%20views&color=0e75b6&style=flat" alt="imethrj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imethrj" alt="imethrj" /></a> </p>
