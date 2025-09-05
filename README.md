@@ -1,13 +1,31 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23375
+Fork on GitHub
+7947
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Imeth Jayasinghe</h1>
 <h3 align="center">Undergraduate Software Engineer | Passionate about building impactful digital solutions</h3>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" alt="GIF" width="800" />
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imethrj&label=Profile%20views&color=0e75b6&style=flat" alt="imethrj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imethrj" alt="imethrj" /></a> </p>
+
+- 🔭 I’m currently working on **Sector Core - Educational Management System**
+
+- 🌱 I’m currently learning **React, Flutter**
+
+- 📫 How to reach me **imethjayasinghe02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +39,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imethrj&show_icons=true&locale=en" alt="imethrj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imethrj&" alt="imethrj" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
