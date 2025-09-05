@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImethRJ&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=radical)  
