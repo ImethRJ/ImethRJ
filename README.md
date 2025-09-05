@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23375
-Fork on GitHub
-7947
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Imeth Jayasinghe</h1>
 <h3 align="center">Undergraduate Software Engineer | Passionate about building impactful digital solutions</h3>
 
