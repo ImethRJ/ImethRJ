@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="40" height="40"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="40" height="40"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" alt="React" width="40" height="40"/>
+  <img src="https://lottiefiles.com/free-animation/react-icon-circling-sg3bpqOG6J" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tailwind" width="40" height="40"/>
 
   <!-- Mobile -->
