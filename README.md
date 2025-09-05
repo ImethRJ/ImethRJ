@@ -9,7 +9,6 @@
 - 💡 Focused on **Mobile App Development (Flutter, React Native)** & **Full Stack Development (React + Firebase)**  
 - 🤖 Exploring **AI-powered chatbots, geofencing, and performance analytics**  
 - 🏗️ Currently building:  
-  - **SafeWalk** – A geofencing safety app with chatbot & alerts  
   - **Sector Core** – An Educational Management System (React + Flutter)  
   - **New City Hardware** – E-commerce site with Firebase backend  
 
