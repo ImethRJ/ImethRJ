@@ -47,7 +47,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imethrj&show_icons=true&locale=en&layout=compact" alt="imethrj" /></p>
+<p><!--img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imethrj&show_icons=true&locale=en&layout=compact" alt="imethrj"-- /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imethrj&show_icons=true&locale=en" alt="imethrj" /></p>
 
