@@ -25,9 +25,9 @@
   <!--img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Tailwind" width="40" height="40"/-->
 
   <!-- Mobile -->
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif" alt="Flutter" width="40" height="40"/>
+  <!--img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif" alt="Flutter" width="40" height="40"/>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Dart" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="Java" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="Java" width="40" height="40"/-->
 
   <!-- Backend & Databases -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="40" height="40"/>
