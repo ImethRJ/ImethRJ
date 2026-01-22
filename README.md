@@ -31,11 +31,11 @@
 
   <!-- Backend & Databases -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/QaMcXSekU0vZr6OYH5/giphy.gif" alt="NodeJS" width="40" height="40"/>
+  <!--img src="https://media.giphy.com/media/QaMcXSekU0vZr6OYH5/giphy.gif" alt="NodeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" alt="Firebase" width="40" height="40"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="MongoDB" width="40" height="40"/>
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="MySQL" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="Django" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="Django" width="40" height="40"/-->
 
   <!-- Tools -->
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="40" height="40"/>
