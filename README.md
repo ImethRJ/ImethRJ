@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="Django" width="40" height="40"/-->
 
   <!-- Tools -->
-  <!img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="40" height="40"/>
+  <!--img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="40" height="40"/>
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="GitHub" width="40" height="40"/-->
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Postman" width="40" height="40"/>
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Photoshop" width="40" height="40"/>
