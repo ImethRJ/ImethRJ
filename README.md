@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Undergraduate+Software+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Graduate+[BSc+(Hons)+in+Software+Engineering;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
+  <h3>Graduate [BSc (Hons) in Software Engineering - University of Bedfordshire] | Full-Stack Developer</h3>
   <p>Building scalable applications and intuitive user experiences.</p>
 </div>
 
