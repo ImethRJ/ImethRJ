@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Graduate+IT+Professional;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=20C20E&random=false&width=435&lines=Undergraduate+Software+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3> Graduate| Full-Stack Developer</h3>
+  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
   <p>Building scalable applications and intuitive user experiences.</p>
 </div>
 
@@ -39,11 +39,11 @@
 ### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imethrj&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="imethrj" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imethrj&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="imethrj" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imethrj&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="streak stats" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imethrj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=imethrj&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
 </div>
 
 ---
