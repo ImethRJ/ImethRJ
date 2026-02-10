@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
+  <h3> Graduate| Full-Stack Developer</h3>
   <p>Building scalable applications and intuitive user experiences.</p>
 </div>
 
@@ -13,7 +13,6 @@
 
 - 🔭 **Current Project:** Building **Sector Core** – A high-performance Educational Management System featuring an admin panel for tutors, automated notices, and real-time class scheduling.
 - 🌱 **Learning:** Deep diving into **React** state management and **Flutter** for mobile integration.
-- 💻 **Tech Interest:** Passionate about optimizing PC performance (RTX 5050 enthusiast) and modern UI/UX design.
 
 ---
 
