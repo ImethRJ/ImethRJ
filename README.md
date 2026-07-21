@@ -36,6 +36,7 @@ I am a recent software engineering graduate with a second-class upper division d
  
  ## ORM
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+ ![Laravel Eloquent](https://img.shields.io/badge/Laravel%20Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
 ## Database Handling  
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
