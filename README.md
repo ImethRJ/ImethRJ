@@ -43,6 +43,7 @@ I am a recent software engineering graduate with a second-class upper division d
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![H2](https://img.shields.io/badge/H2-1070B8?style=for-the-badge&logoColor=white)
   
   
 ## Operating Systems
