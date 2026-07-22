@@ -68,11 +68,9 @@ I am a recent software engineering graduate with a second-class upper division d
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
 ## Connect with me
 
