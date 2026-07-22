@@ -70,7 +70,6 @@ I am a recent software engineering graduate with a second-class upper division d
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165" />
 </p>
 
 ## Connect with me
