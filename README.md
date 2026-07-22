@@ -2,16 +2,6 @@
 
 I am a recent software engineering graduate with a second-class upper division degree from the University of Bedfordshire. Currently, my technological stack consists of several tools and technologies as mentioned here. Feel free to connect, share your skills, and collaborate on this energetic knowledge-sharing platform!
 
-### 📌 Featured Projects
-
-#### 🛒 1. [SL-GreenRoot Market — Secure Inventory & POS System](https://github.com/ImethRJ/SL-GreenRoot-Market---Secure-Inventory-Management-System)
-A production-ready, full-stack Inventory Management and POS system built for a Sri Lankan supermarket context, engineered with strict security controls and automated cloud deployment.
-* **Live Application:** [green-root-market.vercel.app](https://green-root-market.vercel.app/)
-* **Key Features:** Real-time cashier POS terminal, atomic database transaction handling (`transaction.atomic`), Role-Based Access Control (RBAC), WhiteNoise static asset serving, and 100% test pass rate.
-* **Security Hardening:** Dual-pass HTML/Markdown sanitization (`nh3`) against Stored XSS, CSRF controls, and hardened HTTP cookies (`HttpOnly`, `SameSite=Lax`).
-* **Tech Stack:** `Python 3.11+` • `Django 5.0` • `Tailwind CSS` • `PostgreSQL` • `Supabase` • `Vercel`
-
----
 ## Language Stack
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,7 +70,6 @@ A production-ready, full-stack Inventory Management and POS system built for a S
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ## Connect with me
