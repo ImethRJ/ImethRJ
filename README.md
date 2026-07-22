@@ -80,7 +80,7 @@ A production-ready, full-stack Inventory Management and POS system built for a S
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ## Connect with me
