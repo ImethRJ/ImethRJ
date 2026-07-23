@@ -31,6 +31,8 @@ I am a recent software engineering graduate with a second-class upper division d
   ![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![Pillow](https://img.shields.io/badge/Pillow-000000.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![nh3](https://img.shields.io/badge/nh3-000000.svg?style=for-the-badge&logo=python&logoColor=white)
    
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
