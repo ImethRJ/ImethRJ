@@ -75,6 +75,9 @@ I am a recent software engineering graduate with a second-class upper division d
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
+  </a>
 </p>
 
 ## Connect with me
