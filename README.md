@@ -73,12 +73,20 @@ I am a recent software engineering graduate with a second-class upper division d
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
+<!-- GitHub Analytics Section -->
+<div align="left" style="display: flex; justify-content: flex-start; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true" 
+       alt="ImethRJ's GitHub Streak" height="165" />
+
+  <!-- Top Languages Card (Dynamic) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true&include_all_commits=true" 
+         alt="ImethRJ's Top Languages" height="165" />
   </a>
-</p>
+
+</div>
 
 ## Connect with me
 
