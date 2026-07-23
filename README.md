@@ -81,7 +81,7 @@ I am a recent software engineering graduate with a second-class upper division d
 <!-- Top Languages Card -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="ImethRJ's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImethRJ&layout=compact&theme=nord&hide_border=true&langs_count=5" alt="ImethRJ's Top Languages" />
   </a>
 </p>
 
