@@ -10,7 +10,7 @@ I am a recent software engineering graduate with a second-class upper division d
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+  ![Pascal](https://img.shields.io/badge/Pascal-%2300599C.svg?style=for-the-badge&logo=delphi&logoColor=white)
   
  ## Frameworks and Libraries
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
