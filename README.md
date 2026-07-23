@@ -18,6 +18,7 @@ I am a recent software engineering graduate with a second-class upper division d
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
   ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -33,9 +34,11 @@ I am a recent software engineering graduate with a second-class upper division d
    
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+ ![Django Security](https://img.shields.io/badge/Django_Security-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
  ## ORM
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+ ![Django ORM](https://img.shields.io/badge/Django_ORM-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  ![Laravel Eloquent](https://img.shields.io/badge/Laravel%20Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
 ## Database Handling  
