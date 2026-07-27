@@ -29,6 +29,7 @@ I am a recent software engineering graduate with a second-class upper division d
   ![Jackson](https://img.shields.io/badge/Jackson-59666C?style=for-the-badge&logo=java&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
   ![JUnit](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   ![Pillow](https://img.shields.io/badge/Pillow-000000.svg?style=for-the-badge&logo=python&logoColor=white)
