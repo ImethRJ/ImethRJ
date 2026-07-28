@@ -80,7 +80,7 @@ I am a recent software engineering graduate with a second-class upper division d
 
 <!-- Streak Card -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true&cache_bust=5" alt="ImethRJ's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true&cache_bust=6" alt="ImethRJ's GitHub Streak" />
 </p>
 
 <!-- Top Languages Card -->
