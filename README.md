@@ -12,7 +12,8 @@ I am a recent software engineering graduate with a second-class upper division d
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Pascal](https://img.shields.io/badge/Pascal-%2300599C.svg?style=for-the-badge&logo=delphi&logoColor=white)
   
- ## Frameworks and Libraries
+## Frameworks and Libraries
+
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,14 +37,14 @@ I am a recent software engineering graduate with a second-class upper division d
   ![Pillow](https://img.shields.io/badge/Pillow-000000.svg?style=for-the-badge&logo=python&logoColor=white)
   ![nh3](https://img.shields.io/badge/nh3-000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
- ## DevOps & Containerization
+## DevOps & Containerization
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
    
- ## Security
+## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
  ![Django Security](https://img.shields.io/badge/Django_Security-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
- ## ORM
+## ORM
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  ![Django ORM](https://img.shields.io/badge/Django_ORM-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  ![Laravel Eloquent](https://img.shields.io/badge/Laravel%20Eloquent-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -66,7 +67,8 @@ I am a recent software engineering graduate with a second-class upper division d
    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
    ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
       
- ## API Platform, Servers and Cloud Computing
+ 
+## API Platform, Servers and Cloud Computing
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Bruno](https://img.shields.io/badge/Bruno-f4a325?style=for-the-badge&logo=bruno&logoColor=white)
    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
