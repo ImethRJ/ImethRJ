@@ -80,13 +80,12 @@ I am a recent software engineering graduate with a second-class upper division d
 
 <!-- Streak Card -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImethRJ&theme=nord&hide_border=true&cache_bust=6" alt="ImethRJ's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ImethRJ&theme=nord&hide_border=true" alt="ImethRJ's GitHub Streak" />
 </p>
-
 <!-- Top Languages Card -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImethRJ&theme=nord&hide_border=true&include_all_commits=true&langs_count=2&card_width=450&cache_bust=2" alt="ImethRJ's Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImethRJ&theme=nord&hide_border=true&include_all_commits=true&langs_count=5&card_width=450" alt="ImethRJ's Top Languages" />
   </a>
 </p>
 
